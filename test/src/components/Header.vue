@@ -38,7 +38,7 @@
             Contact Us
           </a>
           <a
-            href="#"
+            href="/"
             v-smooth-scroll="{ duration: 1000 }"
             class="block mt-4 lg:inline-block lg:mt-0 cursor-pointer gt-walsheim-regular text-black hover-link"
           >
